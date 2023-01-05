@@ -5,3 +5,5 @@ David tiene 30 años y es un Ingeniero
 Ahora vamos a hacer un ejemplo con git reset soft
 
 Vamos a hacer ahora el reset --soft
+
+Vamos a hacer un ejercicio con git reset head
